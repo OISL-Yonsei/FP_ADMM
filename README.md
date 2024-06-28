@@ -4,7 +4,7 @@ Repo for the project - **Anisotropic Regularization for Sparsely Sampled and Noi
 #### [Project Page](https://kyungchullee.com/projects/6_project/) | [Paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-14-25343&id=552914)
 
 
-[Kyung Chul Lee](https://kyungchullee.com/)$^{1}$, [Hyesuk Chae]$^{1}$, Shiqi Xu $^{2}$, Kyungwon Lee$^{1}$, <br>Roarke Horstmeyer$^{2}$, Byung-Woo Hong$^{3}$, [Seung Ah Lee](https://biomedia.yonsei.ac.kr/)$^{1}$. <br>
+[Kyung Chul Lee](https://kyungchullee.com/)$^{1}$, [Hyesuk Chae]()$^{1}$, Shiqi Xu $^{2}$, Kyungwon Lee$^{1}$, <br>Roarke Horstmeyer$^{2}$, Byung-Woo Hong$^{3}$, [Seung Ah Lee](https://biomedia.yonsei.ac.kr/)$^{1}$. <br>
 $^1$ Yonsei University, $^2$ Duke University, $^3$ Chung-Ang University.
 
 
